@@ -1,0 +1,1 @@
+{"$schema":"node_modules/wrangler/config-schema.json","name":"estreval-city-archive","main":"worker.js","compatibility_date":"2026-09-01","assets":{"directory":"./public","binding":"ASSETS"},"d1_databases":[{"binding":"DB","database_name":"estreval_archive","database_id":"PASTE_D1_DATABASE_ID_HERE"}]}
